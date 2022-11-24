@@ -6,6 +6,8 @@ Built using React Native for both Android & IOS simulataneously(Refer to the ima
 Components created are inside components folder.
 
 To run this App in your phone ( Android & IOS), install Expo Go application & scan the below bar code to run it in the Expo App.
+
+
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/81765508/203812783-02ef5697-d794-4f07-bb1e-326cc9d0fe86.png">
 
 For IOS -
